@@ -56,4 +56,4 @@ My contribution to this version of stock recolour extend only so far as addition
 This pack contains scratch made textures, config files and also includes modified Stock textures. Any modified textures were originally created by Squad (to the best of my knowledge). The textures contained within this pack were created and modified for the purposes of adding PBR recolour shaders made available by Textures Unlimited (by Shadowmage) to the parts specified in the configs, for use in Kerbal Space Program by Squad (which should be obvious, right?)
 
 I claim no rights to the original works by others and I do not provide theirs.
-Last, this work could not have been done without Man with NoName's work on TURD and the original masks within withis mod.
+Last, this work could not have been done without Man with NoName's work on TURD and the original masks within this mod.
